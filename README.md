@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lance Olana</h1>
-<h3 align="center">A passionate Flutter developer and a Computer Engineering Student from Philippines</h3>
+<h1 align="center">Hi, I'm Lance Olana</h1>
+<h3 align="center">A Flutter Developer and a Computer Engineering Student from Philippines</h3>
 
 - 💬 Ask me about **Flutter, Firebase**
 
