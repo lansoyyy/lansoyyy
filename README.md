@@ -1,4 +1,4 @@
-<h1 align="center">Sup, I'm Lance Olana</h1>
+<h1 align="center">zup nerds, I'm Lance Olana</h1>
 <h3 align="center">A passionate Flutter developer and a Computer Engineering Student from Philippines</h3>
 
 - 💬 Ask me about **Flutter**
