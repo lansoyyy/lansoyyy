@@ -1,7 +1,7 @@
 <h1 align="center">zup nerds, i'm lance</h1>
 <h3 align="center">A passionate Flutter developer and a Computer Engineering Student from Philippines</h3>
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Mobile App Development**
 
 - 📫 How to reach me **olanalans12345@gmail.com**
 
