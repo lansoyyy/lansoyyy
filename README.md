@@ -1,5 +1,5 @@
 <h1 align="center">I'm Lance Olana</h1>
-<h3 align="center">A passionate Flutter developer, Backend Developer in Golang, Java Swing Developer and a Computer Engineering Student from Philippines</h3>
+<h3 align="center">A passionate Flutter Developer, Backend Developer in Golang, Java Swing Developer and a Computer Engineering Student from Philippines</h3>
 
 - 💬 Ask me about **Flutter, Golang, Java**
 
