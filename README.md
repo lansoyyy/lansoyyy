@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Lance Olana.</h1>
+<h1 align="center">Hi, I am Lance Olana</h1>
 <h3 align="center">A passionate Flutter Developer, Backend Developer in Golang (Gin framework), Java Swing Developer and a Computer Engineering Student from Philippines</h3>
 
 - 💬 Ask me about **Flutter, Golang, Java**
