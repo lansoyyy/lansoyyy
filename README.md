@@ -1,5 +1,5 @@
 <h1 align="center">lance.dart</h1>
-<h3 align="center">A passionate Flutter Developer, Backend Developer in Golang (Gin framework), Java Swing Developer and a Computer Engineering Student from Philippines</h3>
+<h3 align="center">I am Lance Olana, a 21 yrs old Software Developer and a Computer Engineering student in Philippines.</h3>
 
 - 💬 Ask me about **Flutter, Golang, Java**
 
