@@ -1,7 +1,7 @@
 <h1 align="center">lance.dart</h1>
-<h3 align="center">I am Lance Olana, a 21 yrs old Software Developer and a Computer Engineering student in Philippines.</h3>
+<h3 align="center">I am Lance Olana, a 21 yrs old selft-taught Software Developer and a Computer Engineering student in Philippines.</h3>
 
-- 💬 Ask me about **Flutter, Golang, Java**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **olanalans12345@gmail.com**
 
