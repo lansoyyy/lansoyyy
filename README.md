@@ -1,4 +1,4 @@
-<h1 align="center">Hi. 👋, I'm Lance Olana</h1>
+<h1 align="center">Hi 👋, I'm Lance Olana</h1>
 <h3 align="center">a 21 yrs old self-taught Software Developer and a Computer Engineering student in Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lans12345&label=Profile%20views&color=0e75b6&style=flat" alt="lansoyyy" /> </p>
