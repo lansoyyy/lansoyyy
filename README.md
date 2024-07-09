@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Svelte & Svelte Kit**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lansoyyy](https://github.com/Lans12345)
+- 👨‍💻 All of my projects are available at [https://github.com/lansoyyy](https://github.com/lansoyyy)
 
 - 📝 I regularly write articles on [https://medium.com/@olanalans12345](https://medium.com/@olanalans12345)
 
