@@ -1,4 +1,4 @@
-# 👋 Lance Olana
+# Hi, I am👋 Lance Olana
 ### A 23-year-old self-taught Software Developer from the Philippines
 
 ---
@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate developer with a knack for building innovative solutions. Currently pursuing a degree in Computer Engineering, I specialize in creating apps and systems that solve real-world problems, with a focus on modern technologies and clean code. When I'm not coding, I'm exploring new tools or contributing to open-source projects.
+I'm a passionate developer with a knack for building innovative solutions. I have a Computer Engineering degree, I specialize in creating apps and systems that solve real-world problems, with a focus on modern technologies and clean code. When I'm not coding, I'm exploring new tools or contributing to open-source projects.
 
 ---
 
