@@ -4,10 +4,6 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lans12345&label=Profile%20Views&color=0e75b6&style=flat)
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lansoyyy&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lansoyyy&layout=compact&theme=radical)
 
 ---
 
