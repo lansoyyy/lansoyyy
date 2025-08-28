@@ -1,5 +1,5 @@
 # Hi, I am👋 Lance Olana
-### A 23-year-old self-taught Software Developer from the Philippines
+### A 23-year-old self-taught Mobile Developer from the Philippines
 
 ---
 
