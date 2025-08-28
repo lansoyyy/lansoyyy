@@ -3,8 +3,8 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=lans12345&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lans12345&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Views](https://komarev.com/ghpvc/?username=Lans12345&label=Profile%20Views&color=0e75b6&style=flat)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Lans12345&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
