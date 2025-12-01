@@ -1,4 +1,4 @@
-# Hi, I am👋 Lance Olana.
+# Hi, I am👋 Lance Olana
 ### A 24-year-old self-taught Mobile Developer from the Philippines
 
 ---
