@@ -1,19 +1,4 @@
-# Hi, I am👋 Lance Olana
-### A 24-year-old self-taught Mobile Developer from the Philippines
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Lans12345&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## 🚀 About Me
-I'm a passionate developer with a knack for building innovative solutions. I have a Computer Engineering degree, I specialize in creating apps and systems that solve real-world problems, with a focus on modern technologies and clean code. When I'm not coding, I'm exploring new tools or contributing to open-source projects.
-
----
-
-## 📬 Connect with Me
-Let's stay in touch! Reach out to me on these platforms:
+## Connect with Me
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://linkedin.com/in/lance-olana-956035253/)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />](https://stackoverflow.com/users/18730456)
@@ -24,8 +9,7 @@ Let's stay in touch! Reach out to me on these platforms:
 
 ---
 
-## 🛠️ Languages and Tools
-Here’s a snapshot of the technologies I work with:
+## Languages and Tools
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>](https://developer.android.com)
 [<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>](https://www.arduino.cc/)
@@ -66,14 +50,10 @@ Here’s a snapshot of the technologies I work with:
 
 ---
 
-## 📊 GitHub Stats
-Get a glimpse of my coding journey:
+## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lansoyyy&show_icons=true&locale=en&layout=compact&theme=onedark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lansoyyy&show_icons=true&locale=en&theme=onedark)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lansoyyy&theme=onedark)
 
 ---
-
-## 🌟 Fun Fact
-I'm a proud Filipino developer who loves infusing local culture into my projects, like building apps inspired by the vibrant spirit of the Philippines! 🇵🇭
